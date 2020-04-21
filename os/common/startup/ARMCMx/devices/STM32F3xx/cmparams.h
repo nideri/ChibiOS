@@ -49,6 +49,7 @@
 #if !defined (STM32F301x8) && !defined (STM32F318xx) &&                     \
     !defined (STM32F302x8) && !defined (STM32F302xC) &&                     \
     !defined (STM32F303x8) && !defined (STM32F303xC) &&                     \
+                              !defined (STM32F303xE) &&                     \
     !defined (STM32F358xx) && !defined (STM32F334x8) &&                     \
     !defined (STM32F328xx) &&                                               \
     !defined (STM32F373xC) && !defined (STM32F378xx)
